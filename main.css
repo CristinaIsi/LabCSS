@@ -19,3 +19,25 @@ p span{
     border-color:brown;
     border-radius: 3%;
 }
+
+.maClass2{
+    background-color: chartreuse;
+    font-style: italic;
+    border-style: dashed;
+    border-color:rgb(6, 88, 121);
+    border-radius: 3%;
+}
+
+#id1{
+    background-color: rgb(182, 198, 252);
+}
+
+.classId1{
+    background-color: rgb(252, 206, 242);
+    font-style: italic;
+}
+
+.classId2{
+    color: rgb(4, 72, 139);
+    border-style: dotted;
+}
